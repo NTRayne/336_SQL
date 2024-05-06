@@ -2,6 +2,7 @@
 Coursera website: https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases 
 Note: I could not get the Certification since It required payment. Thus, I am 
 ![image](https://github.com/NTRayne/336_SQL/assets/148294904/694871c1-e8e4-4dc9-b7eb-96925f06ec00)
+![image](https://github.com/NTRayne/336_SQL/assets/148294904/2c6ecf08-ba96-48b5-b052-9235b6122c27)
 ![image](https://github.com/NTRayne/336_SQL/assets/148294904/d1ebc110-f9f5-4c7e-9812-3a461ba79924)
 ![image](https://github.com/NTRayne/336_SQL/assets/148294904/f1361a8f-7190-4988-956b-475ff3e5b554)
 ![image](https://github.com/NTRayne/336_SQL/assets/148294904/6e195778-d1a6-474c-88ef-67ab6fb70e66)
